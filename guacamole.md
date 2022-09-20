@@ -1,6 +1,6 @@
 # Ingredients
 - avocado
-- lime
+- lemon
 - salt
 # Instructions
 - peel the avocados
