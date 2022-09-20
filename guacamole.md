@@ -3,3 +3,6 @@
 - lime
 - salt
 # Instructions
+- peel the avocados
+- mash the avocados
+- taste
